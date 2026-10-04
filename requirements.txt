@@ -1,0 +1,11 @@
+# Documented environment: Python 3.12.x
+numpy
+pandas
+scipy
+scikit-learn
+h5py
+hdbscan
+matplotlib
+seaborn
+jupyter
+ipykernel
